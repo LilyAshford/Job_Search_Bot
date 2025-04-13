@@ -1,0 +1,5 @@
+requests==2.31.0
+selenium==4.9.1
+telebot==0.0.5
+webdriver-manager==4.0.2
+sqlalchemy
